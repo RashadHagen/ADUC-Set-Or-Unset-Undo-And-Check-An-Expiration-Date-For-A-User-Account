@@ -1,4 +1,4 @@
-<h1>Active Directory Users and Computers (ADUC) - et Or Unset (Undo) And Check An Expiration Date For A User Account</h1>
+<h1>Active Directory Users and Computers (ADUC) - Set Or Unset (Undo) And Check An Expiration Date For A User Account</h1>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">

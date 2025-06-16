@@ -142,20 +142,6 @@ This project goes over how to set an expiration date for a user account using Ac
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>To UNDO an EXPIRED user account: Change the expiration date  (OR)  Instead of Clicking: End of. Click: Never. Click: Apply. Click: OK.</b></span>  
-<br/>
-
-<table>
-  <tr>
-    <td><img src="https://imgur.com/iNQXYQR.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/ApQ1MGC.png" height="50%" width="100%" /></td>
-  </tr>
-</table>
-
-<br /><br />
-
-
-div style="text-align:center;">
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>NOTE: To check if the account does not expire / when it expires now: Open: Command Prompt.</b></span>  
 <br/>
 
@@ -169,7 +155,7 @@ div style="text-align:center;">
 <br /><br />
 
 
-div style="text-align:center;">
+<div style="text-align:center;">
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Type: net user (username) /domain. NOTE: Because this user’s account was created using Active Directory Users and Computers and not on the local computer, you need to add /domain at the end. Look: Towards the top.</b></span>  
 <br/>
 

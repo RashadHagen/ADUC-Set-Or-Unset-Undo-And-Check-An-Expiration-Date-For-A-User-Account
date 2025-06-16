@@ -114,7 +114,7 @@ This project goes over how to set an expiration date for a user account using Ac
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/eMXFCEE.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/Nb7ohGj.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 

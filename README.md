@@ -122,7 +122,7 @@ This project goes over how to set an expiration date for a user account using Ac
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>To UNDO an EXPIRED user account: Change the expiration date  (OR)  Instead of Clicking: End of. Click: Never. Click: Apply. Click: OK.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>To UNDO an EXPIRED user account: Change the expiration date  (OR)  Instead of Clicking: End of. Click: Never. Click: Apply.  Click: OK.</b></span>  
 <br/>
 
 <table>

@@ -48,7 +48,7 @@ This project goes over how to set an expiration date for a user account using Ac
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Use: Use: Find (OR) Go: To the location of the user.  <a href="https://github.com/RashadHagen/ADUC-Find-Computer-User-Contact-Group-Printer-Shared-Folder-Organizational-Unit-Common-Que" style="font-family: Arial, sans-serif; font-size: 16px; font-weight: bold;">How To Find A User In Active Directory Users and Computers</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Use: Find (OR) Go: To the location of the user.  <a href="https://github.com/RashadHagen/ADUC-Find-Computer-User-Contact-Group-Printer-Shared-Folder-Organizational-Unit-Common-Que" style="font-family: Arial, sans-serif; font-size: 16px; font-weight: bold;">How To Find A User In Active Directory Users and Computers</b></span>  
 <br/>
 
 <table>
